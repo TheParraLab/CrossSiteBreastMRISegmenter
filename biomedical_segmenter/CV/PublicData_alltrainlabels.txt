@@ -1,0 +1,2 @@
+/media/nicholas/Projects1/Axial_Crosssite_release/biomedical_segmenter/Data/PublicData/Segmentation/Breast_MRI_001_T1subtract.nii.gz 
+/media/nicholas/Projects1/Axial_Crosssite_release/biomedical_segmenter/Data/PublicData/Segmentation/Breast_MRI_070_T1subtract.nii.gz 

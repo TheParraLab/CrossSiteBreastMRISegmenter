@@ -1,0 +1,3 @@
+/media/nicholas/Projects1/Axial_Crosssite_release/biomedical_segmenter/Data/PublicData/Data/Breast_MRI_001/T1_axial_slope1.nii.gz
+/media/nicholas/Projects1/Axial_Crosssite_release/biomedical_segmenter/Data/PublicData/Data/Breast_MRI_070/T1_axial_slope1.nii.gz
+
